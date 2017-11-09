@@ -32,7 +32,7 @@
 - [ ] about_scoring_project.rb
 - [ ] about_strings.rb
 - [ ] about_symbols.rb
-- [ ] about_to_str.rb
+- [x] about_to_str.rb
 - [ ] about_triangle_project.rb
 - [ ] about_triangle_project_2.rb
 - [x] about_true_and_false.rb
