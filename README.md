@@ -22,7 +22,7 @@
 - [ ] about_message_passing.rb
 - [ ] about_methods.rb
 - [ ] about_modules.rb
-- [ ] about_nil.rb
+- [x] about_nil.rb
 - [ ] about_objects.rb
 - [ ] about_open_classes.rb
 - [ ] about_proxy_object_project.rb
