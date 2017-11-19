@@ -30,7 +30,7 @@
 - [ ] about_sandwich_code.rb
 - [ ] about_scope.rb
 - [ ] about_scoring_project.rb
-- [ ] about_strings.rb
+- [x] about_strings.rb
 - [ ] about_symbols.rb
 - [x] about_to_str.rb
 - [ ] about_triangle_project.rb
